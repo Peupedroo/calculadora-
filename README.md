@@ -12,4 +12,4 @@ __essa calculadora com interface__
 3. ela tem interface 
 4. ela tem tambem um historico
 
-![alt text](https://media.licdn.com/dms/image/D5622AQHbaNwY38o7sg/feedshare-shrink_800/0/1695097609352?e=2147483647&v=beta&t=4NDkP0C-Wq3VeZ66PYlXox8S0yJsislL7vkGCv-6Srg)
+![alt text](https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b952100p0xer1a93a0iugosec2jsu9mxhwmxypbzo137&ep=v1_gifs_search&rid=200.gif&ct=g)
