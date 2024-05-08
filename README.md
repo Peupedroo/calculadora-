@@ -4,7 +4,7 @@ __essa calculadora com interface__
 
 ## linguagem
 
-* python  
+´´´ python
 ### funcionalidades 
 
 1. ela recebe dois numeros e faz um calculo matematico (soma, subitraçao, multiplicaçao, divisao)
