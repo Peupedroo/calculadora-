@@ -4,7 +4,7 @@ __essa calculadora com interface__
 
 ## linguagem
 
-* python  ![alt text](https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b95280ac4p2qsgrpk4rz3ci0jd30iz053kmmk5xzhphk&ep=v1_gifs_search&rid=200.gif&ct=g)
+* python  ![alt text](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
 ### funcionalidades 
 
 1. ela recebe dois numeros e faz um calculo matematico (soma, subitraçao, multiplicaçao, divisao)
