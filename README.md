@@ -12,3 +12,5 @@ __essa calculadora com interface__
 2. ela tambem faz um bip apos o calculo
 3. ela tem interface 
 4. ela tem tambem um historico
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png)
