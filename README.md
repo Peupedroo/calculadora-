@@ -13,4 +13,4 @@ __essa calculadora com interface__
 3. ela tem interface 
 4. ela tem tambem um historico
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png)
+![alt text](https://www.clipartbest.com/cliparts/9cR/g9L/9cRg9Ljgi.gif)
