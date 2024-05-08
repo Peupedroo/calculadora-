@@ -4,8 +4,7 @@ __essa calculadora com interface__
 
 ## linguagem
 
-* python
-
+* python  ![alt text](https://www.clipartbest.com/cliparts/9cR/g9L/9cRg9Ljgi.gif)
 ### funcionalidades 
 
 1. ela recebe dois numeros e faz um calculo matematico (soma, subitraçao, multiplicaçao, divisao)
@@ -13,4 +12,3 @@ __essa calculadora com interface__
 3. ela tem interface 
 4. ela tem tambem um historico
 
-![alt text](https://www.clipartbest.com/cliparts/9cR/g9L/9cRg9Ljgi.gif)
