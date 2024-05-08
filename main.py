@@ -8,7 +8,7 @@ def salvar_historico(operacao,num1,num2,resultado):
         file.write(f"{datetime.now()}-{operacao}-{num1}e{num2}={resultado}.\n")
 
 def bip():
-    winsound.Beep(1000,1000)
+    winsound.Beep(100,1000)
 
 def realizar_operacao():
     num1 = float(entry_num1.get())
