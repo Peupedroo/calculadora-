@@ -12,4 +12,7 @@ __essa calculadora com interface__
 3. ela tem interface 
 4. ela tem tambem um historico
 
-![alt text](https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b952100p0xer1a93a0iugosec2jsu9mxhwmxypbzo137&ep=v1_gifs_search&rid=200.gif&ct=g)
+![logo python](https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b952100p0xer1a93a0iugosec2jsu9mxhwmxypbzo137&ep=v1_gifs_search&rid=200.gif&ct=g)
+
+#### meu linkedin
+[link linkedin](https://www.linkedin.com/in/pedro-gouveia-6733a819b/)
